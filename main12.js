@@ -1,1 +1,0 @@
-rows[rows.length - 1] = 10;
